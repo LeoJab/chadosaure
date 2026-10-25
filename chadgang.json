@@ -1,0 +1,10 @@
+{
+  "title": "Chadosaure",
+  "description": "Le dino runner, mais en version gonflée. Saute les haltères, esquive les pigeons et cours plus loin que tout le monde.",
+  "author": "ChadGang",
+  "category": "Solo",
+  "emoji": "🦖",
+  "image": "cover.png",
+  "classement": "score",
+  "unite": "m"
+}
